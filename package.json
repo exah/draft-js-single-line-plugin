@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/icelab/draft-js-single-line-plugin.git"
+    "url": "https://github.com/exah/draft-js-single-line-plugin.git"
   },
   "keywords": [
     "draft-js",
@@ -23,13 +23,14 @@
     "plugin"
   ],
   "authors": [
-    "Max Wheeler <max@icelab.com.au> (https://github.com/makenosound)"
+    "Max Wheeler <max@icelab.com.au> (https://github.com/makenosound)",
+    "John Grishin <r@exah.me> (https://github.com/exah)"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/icelab/draft-js-single-line-plugin/issues"
+    "url": "https://github.com/exah/draft-js-single-line-plugin/issues"
   },
-  "homepage": "https://github.com/icelab/draft-js-single-line-plugin",
+  "homepage": "https://github.com/exah/draft-js-single-line-plugin",
   "peerDependencies": {
     "draft-js": ">=0.7.0",
     "react": ">=15.0.0",

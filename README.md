@@ -17,14 +17,14 @@ $ npm i -S @exah/draft-js-single-line-plugin
 ## Usage
 
 ```js
-import createSingleLinePlugin from 'draft-js-single-line-plugin'
+import createSingleLinePlugin from '@exah/draft-js-single-line-plugin'
 const singleLinePlugin = createSingleLinePlugin()
 ```
 
 This can then be passed into a `draft-js-plugins-editor` component:
 
 ```js
-import createSingleLinePlugin from 'draft-js-single-line-plugin'
+import createSingleLinePlugin from '@exah/draft-js-single-line-plugin'
 const singleLinePlugin = createSingleLinePlugin()
 import Editor from 'draft-js-plugins-editor'
 
