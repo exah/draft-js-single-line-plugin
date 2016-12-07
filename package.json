@@ -1,6 +1,6 @@
 {
   "name": "@exah/draft-js-single-line-plugin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Restrict a draft-js editor to a single line of input.",
   "main": "dist/index.js",
   "scripts": {
