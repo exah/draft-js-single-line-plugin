@@ -1,4 +1,4 @@
-# Draft.js Single Line plugin
+# (fork) Draft.js Single Line plugin
 
 *This is a plugin for the [`draft-js-plugins-editor`](https://www.draft-js-plugins.com/), a plugin system that sits on top of Draft.js.*
 
@@ -7,6 +7,12 @@ This plugin adds support restricting [Facebook’s Draft.js editor](https://face
 ## What, why?!
 
 Madness I know, however there places you want to allow _some_ rich styling yet the underlying value should still be a single line. Allowing titles for things like blog posts or pages to contain strong/emphasis is our main use-case.
+
+## Install
+
+```sh
+$ npm i -S @exah/draft-js-single-line-plugin
+```
 
 ## Usage
 
@@ -61,7 +67,7 @@ Options: `true` | `false`
 
 ## Developing
 
-```
+```sh
 npm install
 npm install react react-dom draft-js
 npm run test
